@@ -1,0 +1,52 @@
+ody {
+    color: rgb(238, 232, 232);
+    background-color: black;
+  }
+  
+  .text-white-50
+  
+  .header .navbar {
+    background-color: transparent !important;
+  }
+  
+  
+  .navbar {
+    background-color: transparent;
+    background: transparent;
+  }
+  
+  hr {
+    height: 2px;
+    background: #59c7c7;
+  }
+  
+  .box-blue {
+    background:#59c7c7;
+    padding: 4px;
+  }
+  .box-blue i {
+    font-size: 2em;
+  }
+  
+  .card-body {
+    background-color: #16a3b8;
+    color: white;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline-block;
+  }
+  footer {
+    background-color: #16a3b8;
+    color: white;
+    padding: 10px;
+  }
+  
+  .icon-footer {
+    font-size: 2em;
+  }
+  
