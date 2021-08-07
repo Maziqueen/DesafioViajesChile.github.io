@@ -1,3 +1,3 @@
 # Desafio_-Viajes_-Chile
  git hub pages link
- DesafioViajesChile.github.io
+https://maziqueen.github.io/DesafioViajesChile.github.io/
